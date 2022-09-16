@@ -76,7 +76,7 @@ unset($db);
     <div class="result"></div>
   </div>
   ```
-  - Javacsipt kodlarımızı yazmaya başlayabiliriz. (jquery cdn'in altına olacak şekilde yazılmalıdır)
+  - Javascript kodlarımızı yazmaya başlayabiliriz. (jquery cdn'in altına olacak şekilde yazılmalıdır)
   ```javascript
   $(document).ready(function(){
       $('.search-box input[type="text"]').on("keyup input", function(){
